@@ -1,0 +1,73 @@
+age_group,gender,occupation,fastfood_frequency,fastfood_type,consumption_time,reason,energy_level,post_meal_tired,sleep_hours,physical_activity,perceived_effect,post_meal_feeling,Freq_Num,Tired_Num,Sleep_Num,Activity_Num,Low_Energy
+23–30,Male,Student,1–2 times per week,"Snacks (chips, fries, etc.)",Late night,Low cost,3,Sometimes,5–6 hours,Yes (few times a week),Not sure,No change,2,2,2,2,0
+18–22,Female,Student,Occasionally,Soft drinks,Late night,Convenience,3,Rarely,5–6 hours,Rarely,Not sure,Sleepy;Lazy,1,1,2,1,0
+23–30,Female,Student,3–5 times per week,"Snacks (chips, fries, etc.)",Dinner,Taste,2,Never,7–8 hours,Never,Not sure,No change,3,0,3,0,1
+23–30,Male,Student,Occasionally,Burgers,Dinner,Taste,3,Often,7–8 hours,Yes (few times a week),Yes (positively),Sleepy,1,3,3,2,0
+18–22,Male,Student,Daily,"Snacks (chips, fries, etc.)",Lunch,Lack of time,4,Sometimes,5–6 hours,Yes (few times a week),Yes (negatively),No change,4,2,2,2,0
+18–22,Male,Student,Occasionally,"Snacks (chips, fries, etc.)",Dinner,Taste,5,Never,5–6 hours,Rarely,Yes (negatively),Sleepy;Lazy;No change,1,0,2,1,0
+23–30,Male,Student,Occasionally,"Snacks (chips, fries, etc.)",Breakfast,Lack of time,2,Sometimes,7–8 hours,Yes (daily),Yes (negatively),Lazy,1,2,3,3,1
+18–22,Male,Student,3–5 times per week,"Snacks (chips, fries, etc.)",Breakfast,Social reasons,2,Sometimes,More than 8 hours,Rarely,Yes (negatively),No change,3,2,4,1,1
+23–30,Male,Student,3–5 times per week,"Snacks (chips, fries, etc.)",Late night,Taste,2,Sometimes,5–6 hours,Yes (few times a week),Yes (positively),Lazy,3,2,2,2,1
+18–22,Male,Student,Occasionally,Soft drinks,Occasionally i take soft drinks but i take it when i Didn't get the package water  ,For suger and dehydrate myself ,5,Never,5–6 hours,Yes (few times a week),No effect,Energetic,1,0,2,2,0
+18–22,Male,Student,Occasionally,Fried chicken,Evening,Taste,3,Often,7–8 hours,Yes (few times a week),Yes (negatively),Sleepy;Lazy,1,3,3,2,0
+23–30,Male,Student,1–2 times per week,Fried rice and fried chicken,Dinner,Taste,4,Sometimes,5–6 hours,Rarely,Yes (negatively),Lazy,2,2,2,1,0
+23–30,Male,Student,1–2 times per week,"Snacks (chips, fries, etc.)",In between lunch and dinner,Taste,4,Rarely,5–6 hours,Yes (daily),Not sure,No change,2,1,2,3,0
+23–30,Male,Student,1–2 times per week,"Snacks (chips, fries, etc.)",Late night,Taste,2,Rarely,5–6 hours,Yes (few times a week),Not sure,No change,2,1,2,2,1
+23–30,Male,Student,3–5 times per week,"Salads, Fried Chicken, Pizza",Dinner,Convenience,4,Sometimes,5–6 hours,Rarely,No effect,No change,3,2,2,1,0
+23–30,Male,Student,1–2 times per week,"Snacks (chips, fries, etc.)",Late night,Convenience,3,Often,Less than 5 hours,Yes (few times a week),Yes (negatively),Lazy;No change,2,3,1,2,0
+23–30,Male,Student,Occasionally,Pizza,Late night,Taste,4,Never,More than 8 hours,Yes (few times a week),Not sure,No change,1,0,4,2,0
+23–30,Male,Student,3–5 times per week,"Snacks (chips, fries, etc.)",Dinner,Social reasons,2,Sometimes,Less than 5 hours,Rarely,Yes (negatively),Lazy,3,2,1,1,1
+23–30,Male,Student,Daily,"Snacks (chips, fries, etc.)",Evening snacks,Taste,3,Often,7–8 hours,Rarely,Yes (negatively),Sleepy;Lazy,4,3,3,1,0
+18–22,Male,Student,1–2 times per week,Soft drinks,Dinner,Taste,3,Often,7–8 hours,Rarely,Yes (positively),Energetic,2,3,3,1,0
+18–22,Male,Student,3–5 times per week,Pizza,Late night,Taste,3,Never,More than 8 hours,Never,Not sure,Sleepy,3,0,4,0,0
+18–22,Male,Student,1–2 times per week,Soft drinks,Dinner,Low cost,4,Often,5–6 hours,Rarely,Yes (positively),No change,2,3,2,1,0
+23–30,Male,Student,Occasionally,Soft drinks,Dinner,Social reasons,3,Sometimes,7–8 hours,Yes (few times a week),Yes (negatively),Sleepy,1,2,3,2,0
+23–30,Male,Student,Occasionally,Fried chicken,Late night,Low cost,4,Rarely,7–8 hours,Yes (daily),Not sure,Sleepy;Lazy,1,1,3,3,0
+Under 18,Male,Student,3–5 times per week,"Snacks (chips, fries, etc.)",Lunch,Taste,4,Rarely,5–6 hours,Yes (daily),Not sure,No change,3,1,2,3,0
+Under 18,Male,Student,3–5 times per week,"Snacks (chips, fries, etc.)",Evening,Taste,4,Rarely,5–6 hours,Yes (few times a week),Not sure,No change,3,1,2,2,0
+18–22,Male,Student,1–2 times per week,Fried chicken,Dinner,Taste,3,Always,Less than 5 hours,Never,Yes (negatively),Sleepy,2,4,1,0,0
+18–22,Male,Student,1–2 times per week,Fried chicken,Dinner,Convenience,4,Rarely,5–6 hours,Rarely,No effect,Lazy,2,1,2,1,0
+23–30,Female,Student,Occasionally,Burgers,Dinner,Taste,3,Rarely,5–6 hours,Never,Not sure,No change,1,1,2,0,0
+23–30,Male,Student,Daily,Soft drinks,Dinner,Taste,3,Never,5–6 hours,Yes (few times a week),Yes (negatively),Sleepy,4,0,2,2,0
+Under 18,Male,Student,Occasionally,Soft drinks,Dinner,Taste,4,Sometimes,More than 8 hours,Yes (daily),Not sure,Energetic,1,2,4,3,0
+23–30,Male,Student,3–5 times per week,"Snacks (chips, fries, etc.)",Dinner,Taste,3,Often,5–6 hours,Rarely,Yes (negatively),Lazy,3,3,2,1,0
+23–30,Male,Student,3–5 times per week,Soft drinks,Lunch,Taste,3,Never,More than 8 hours,Never,No effect,No change,3,0,4,0,0
+Above 40,Male,Employed,Occasionally,Varies time to time,Dinner,Convenience,3,Sometimes,5–6 hours,Yes (few times a week),Not sure,Sleepy;Lazy,1,2,2,2,0
+23–30,Male,Student,3–5 times per week,"Snacks (chips, fries, etc.)",Lunch,Taste,3,Sometimes,5–6 hours,Yes (few times a week),Yes (negatively),Lazy,3,2,2,2,0
+23–30,Male,Student,Occasionally,"Nun and vegetables Curry ,Puri",Dinner,Taste,3,Sometimes,7–8 hours,Yes (daily),Yes (negatively),No change,1,2,3,3,0
+31–40,Male,Employed,3–5 times per week,Soft drinks,Lunch,Taste,3,Sometimes,7–8 hours,Yes (daily),Yes (positively),No change,3,2,3,3,0
+Under 18,Male,Student,3–5 times per week,Fried chicken,Breakfast,Taste,3,Sometimes,5–6 hours,Yes (daily),Not sure,Lazy,3,2,2,3,0
+23–30,Female,Student,Occasionally,"Snacks (chips, fries, etc.)",Dinner,Taste,3,Sometimes,5–6 hours,Yes (few times a week),Yes (negatively),Lazy,1,2,2,2,0
+Under 18,Male,Student,Occasionally,Pizza,Late night,Lack of time,4,Sometimes,7–8 hours,Yes (daily),Yes (positively),Lazy,1,2,3,3,0
+31–40,Male,Employed,Daily,Pizza,Breakfast,Taste,3,Never,5–6 hours,Yes (daily),Not sure,No change,4,0,2,3,0
+Under 18,Male,Student,1–2 times per week,Fried chicken,Dinner,Taste,3,Sometimes,7–8 hours,Rarely,Yes (positively),No change,2,2,3,1,0
+23–30,Male,Student,3–5 times per week,Soft drinks,Late night,Lack of time,3,Rarely,5–6 hours,Yes (daily),Yes (negatively),Sleepy;Lazy,3,1,2,3,0
+Under 18,Male,Student,1–2 times per week,Soft drinks,Lunch,Taste,5,Rarely,More than 8 hours,Yes (few times a week),Yes (negatively),No change,2,1,4,2,0
+Under 18,Male,Student,Occasionally,Pizza,Dinner,Taste,3,Never,7–8 hours,Rarely,Not sure,Lazy,1,0,3,1,0
+18–22,Female,Student,Occasionally,Noodles ,Any time of day ,Taste,3,Sometimes,5–6 hours,Never,Not sure,Lazy,1,2,2,0,0
+23–30,Female,Employed,1–2 times per week,Soft drinks,Evening ,Taste,3,Rarely,5–6 hours,Rarely,Not sure,No change,2,1,2,1,0
+Under 18,Male,Student,1–2 times per week,Soft drinks,Dinner,Taste,3,Often,7–8 hours,Yes (daily),No effect,No change,2,3,3,3,0
+23–30,Male,Student,Daily,"Pizza, Soft drinks, Snack",Dinner,Convenience,5,Never,5–6 hours,Rarely,No effect,Energetic,4,0,2,1,0
+23–30,Male,Self-employed,1–2 times per week,Fried chicken,Evening ,Taste,4,Rarely,More than 8 hours,Rarely,Not sure,Lazy,2,1,4,1,0
+23–30,Male,Employed,Occasionally,Burgers,Dinner,Taste,4,Rarely,5–6 hours,Yes (daily),Not sure,No change,1,1,2,3,0
+Under 18,Male,Student,Occasionally,Soft drinks,Late night,Taste,2,Always,5–6 hours,Rarely,Yes (negatively),Lazy,1,4,2,1,1
+18–22,Female,Student,Occasionally,Burgers,Lunch,Taste,3,Often,7–8 hours,Yes (few times a week),Yes (positively),Energetic,1,3,3,2,0
+23–30,Female,Student,1–2 times per week,"Snacks (chips, fries, etc.)",Breakfast,Taste,3,Sometimes,Less than 5 hours,Yes (daily),Yes (negatively),No change,2,2,1,3,0
+23–30,Male,Student,Daily,Soft drinks,Lunch,Taste,2,Sometimes,5–6 hours,Rarely,Yes (negatively),Lazy,4,2,2,1,1
+23–30,Male,Student,Daily,Soft drinks,Dinner,Low cost,5,Sometimes,Less than 5 hours,Rarely,Yes (negatively),Lazy,4,2,1,1,0
+31–40,Male,Self-employed,Occasionally,Fried chicken,Late night,Taste,3,Sometimes,5–6 hours,Never,Yes (negatively),No change,1,2,2,0,0
+18–22,Male,Student,Occasionally,Pizza,Lunch,Taste,3,Sometimes,5–6 hours,Yes (few times a week),Yes (positively),Sleepy,1,2,2,2,0
+23–30,Male,Student,Occasionally,Soft drinks,Breakfast,Lack of time,3,Often,Less than 5 hours,Never,Not sure,Lazy,1,3,1,0,0
+18–22,Female,Student,Occasionally,Soft drinks,Lunch,Taste,3,Sometimes,7–8 hours,Rarely,Yes (negatively),Sleepy,1,2,3,1,0
+23–30,Male,Employed,1–2 times per week,"Snacks (chips, fries, etc.)",Lunch,Taste,2,Sometimes,5–6 hours,Never,Yes (positively),Lazy,2,2,2,0,1
+23–30,Male,Employed,1–2 times per week,"Fried chicken, sift drinks, snacks",Late night,Convenience,3,Sometimes,5–6 hours,Rarely,Not sure,Lazy,2,2,2,1,0
+23–30,Male,Employed,Daily,Fried chicken,Dinner,Taste,3,Sometimes,5–6 hours,Yes (few times a week),Yes (positively),Sleepy;Lazy,4,2,2,2,0
+18–22,Female,Student,Occasionally,Soft drinks,Breakfast,Taste,4,Sometimes,More than 8 hours,Yes (daily),No effect,Energetic,1,2,4,3,0
+18–22,Male,Student,3–5 times per week,Fried chicken,Dinner,Low cost,3,Sometimes,5–6 hours,Rarely,No effect,Sleepy,3,2,2,1,0
+18–22,Male,Student,1–2 times per week,"Snacks (chips, fries, etc.)",Breakfast,Taste,4,Rarely,7–8 hours,Yes (few times a week),Yes (negatively),No change,2,1,3,2,0
+23–30,Male,Student,3–5 times per week,"Snacks (chips, fries, etc.)",Lunch,Lack of time,3,Sometimes,5–6 hours,Yes (few times a week),Yes (positively),Lazy,3,2,2,2,0
+18–22,Female,Student,Occasionally,Soft drinks,no Fix time ,I Feel happy ,3,Sometimes,7–8 hours,Yes (daily),No effect,No change,1,2,3,3,0
+18–22,Female,Employed,Occasionally,Fried chicken,Lunch,Convenience,3,Never,7–8 hours,Yes (daily),Not sure,No change,1,0,3,3,0
+31–40,Female,Employed,Occasionally,Burgers,Dinner,Convenience,3,Sometimes,5–6 hours,Rarely,No effect,No change,1,2,2,1,0
+31–40,Female,Employed,Occasionally,Burgers,Dinner,Convenience,3,Sometimes,5–6 hours,Rarely,No effect,No change,1,2,2,1,0
+18–22,Male,Student,Rarely/Never,ভাত,Breakfast,Low cost,3,Sometimes,5–6 hours,Rarely,Yes (negatively),Lazy,0,2,2,1,0
